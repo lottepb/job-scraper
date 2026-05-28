@@ -1,0 +1,225 @@
+company_name,source,status,excluded
+6Sense,seed,active,false
+Abnormal,seed,active,false
+Abridge,seed,active,false
+Acely,seed,active,false
+Affinity,seed,active,false
+Affirm,seed,active,false
+Airbnb,seed,active,false
+Airtable,seed,active,false
+Airwallex,seed,active,false
+Akasa,seed,active,false
+Alchemy,seed,active,false
+Alltrails,seed,active,false
+Ambience Healthcare,seed,active,false
+Amplitude,seed,active,false
+Ancestry,seed,active,false
+Anthropic,seed,active,false
+Apollo,seed,active,false
+Apple,seed,active,false
+Articulate,seed,active,false
+Asana,seed,active,false
+Ascend,seed,active,false
+Astranis,seed,active,false
+Astro Mechanica,seed,active,false
+Atlassian,seed,active,false
+Autodesk,seed,active,false
+Babylist,seed,active,false
+Bamboo Health,seed,active,false
+Baseten,seed,active,false
+Benchling,seed,active,false
+BetterUp,seed,active,false
+Bitwise,seed,active,false
+Block,seed,active,false
+Boompop,seed,active,false
+Box,seed,active,false
+Braintrust Data,seed,active,false
+Braze,seed,active,false
+Brex,seed,active,false
+Builder.io,seed,active,false
+Calm,seed,active,false
+Campfire,seed,active,false
+Candid Health,seed,active,false
+Cantina,seed,active,false
+Capital One,seed,active,false
+Celonis,seed,active,false
+Charles Schwab,seed,active,false
+Chime,seed,active,false
+Cisco Meraki,seed,active,false
+Clever,seed,active,false
+Cloudflare,seed,active,false
+Cobot,seed,active,false
+CodeRabbit,seed,active,false
+Cognition,seed,active,false
+Cohere AI,seed,active,false
+Coinbase,seed,active,false
+Collective,seed,active,false
+Color,seed,active,false
+Column,seed,active,false
+Confluent,seed,active,false
+Consensys,seed,active,false
+Convex,seed,active,false
+Corelight,seed,active,false
+CoreWeave,seed,active,false
+Cribl,seed,active,false
+Crunchbase,seed,active,false
+Crunchyroll,seed,active,false
+Datadog,seed,active,false
+Decagon,seed,active,false
+Demandbase,seed,active,false
+Descript,seed,active,false
+DoorDash,seed,active,false
+DroneDeploy,seed,active,false
+Dropbox,seed,active,false
+Earnest,seed,active,false
+EarnIn,seed,active,false
+Edia,seed,active,false
+Envoy,seed,active,false
+Everlaw,seed,active,false
+Faire,seed,active,false
+Fal,seed,active,false
+Federato,seed,active,false
+Fivetran,seed,active,false
+Flocksafety,seed,active,false
+Fluidstack,seed,active,false
+Freshpaint,seed,active,false
+Gap Inc.,seed,active,false
+GitHub,seed,active,false
+Gong,seed,active,false
+Goodleap,seed,active,false
+Google,seed,active,false
+Gridware,seed,active,false
+Groundcover,seed,active,false
+Grow Therapy,seed,active,false
+Gusto,seed,active,false
+HappyRobot,seed,active,false
+Harvey,seed,active,false
+Headway,seed,active,false
+Hedra,seed,active,false
+Hex,seed,active,false
+Highnote,seed,active,false
+Hightouch,seed,active,false
+Hover,seed,active,false
+Hubspot,seed,active,false
+Huntress,seed,active,false
+Illumio,seed,active,false
+Imply,seed,active,false
+Infinitus,seed,active,false
+Instacart,seed,active,false
+Intercom,seed,active,false
+Ironclad,seed,active,false
+Kaedim,seed,active,false
+Kairos Power,seed,active,false
+Kikoff,seed,active,false
+Kong,seed,active,false
+Krea,seed,active,false
+Labelbox,seed,active,false
+Latent Health,seed,active,false
+LendingClub,seed,active,false
+LinkedIn,seed,active,false
+LMArena,seed,active,false
+LogicMonitor,seed,active,false
+Lyft,seed,active,false
+Mammoth Growth,seed,active,false
+Masterclass,seed,active,false
+Material Security,seed,active,false
+Maven,seed,active,false
+Mercor,seed,active,false
+Mercury,seed,active,false
+Method Financial,seed,active,false
+Metronome,seed,active,false
+Mintlify,seed,active,false
+Mixpanel,seed,active,false
+Monzo,seed,active,false
+Motherduck,seed,active,false
+Motive,seed,active,false
+Nerdwallet,seed,active,false
+Netflix,seed,active,false
+NextDoor,seed,active,false
+Northbeam,seed,active,false
+Notion,seed,active,false
+Noyo,seed,active,false
+Omada,seed,active,false
+Ontra,seed,active,false
+OpenAI,seed,active,false
+Origin,seed,active,false
+Overjet,seed,active,false
+Owner,seed,active,false
+PagerDuty,seed,active,false
+Pallet,seed,active,false
+Parafin,seed,active,false
+Paytient,seed,active,false
+Persona,seed,active,false
+Pilot,seed,active,false
+Plaid,seed,active,false
+Planful,seed,active,false
+Pomelo Care,seed,active,false
+PwC,seed,active,false
+Pylon,seed,active,false
+Quizlet,seed,active,false
+Ramp,seed,active,false
+Reddit,seed,active,false
+Replit,seed,active,false
+Retool,seed,active,false
+Ripple,seed,active,false
+Rippling,seed,active,false
+Robinhood,seed,active,false
+Roblox,seed,active,false
+Rockbot,seed,active,false
+Rula,seed,active,false
+Salesforce,seed,active,false
+Samsara,seed,active,false
+Scribd,seed,active,false
+Scribe,seed,active,false
+Sentry,seed,active,false
+Sephora North America,seed,active,false
+ServiceNow,seed,active,false
+Sesame,seed,active,false
+Shepherd Insurance,seed,active,false
+Sigma Computing,seed,active,false
+Snappr,seed,active,false
+SoFi,seed,active,false
+Span,seed,active,false
+Speak,seed,active,false
+Sprig,seed,active,false
+Spring Health,seed,active,false
+Stedi,seed,active,false
+Stitch Fix,seed,active,false
+Strava,seed,active,false
+Stripe,seed,active,false
+Substack,seed,active,false
+Suno,seed,active,false
+Superhuman,seed,active,false
+Sysdig,seed,active,false
+Talkiatry,seed,active,false
+TaskRabbit,seed,active,false
+Thatch,seed,active,false
+Thumbtack,seed,active,false
+Toast,seed,active,false
+Tomorrow AI,seed,active,false
+TRM Labs,seed,active,false
+Trucksmarter,seed,active,false
+Turo,seed,active,false
+Twitch,seed,active,false
+Twitter/X,seed,active,false
+Uber,seed,active,false
+Udemy,seed,active,false
+Underdog Sports,seed,active,false
+Upstart,seed,active,false
+Vanta,seed,active,false
+Vercel,seed,active,false
+Visa,seed,active,false
+Warner Bros. Discovery,seed,active,false
+Wells Fargo,seed,active,false
+Whatnot,seed,active,false
+Wispr Flow,seed,active,false
+Wonderschool,seed,active,false
+Workday,seed,active,false
+World,seed,active,false
+Writer,seed,active,false
+Yelp,seed,active,false
+Zendesk,seed,active,false
+Zipline,seed,active,false
+Zoox,seed,active,false
+Zuora,seed,active,false
+Zynga,seed,active,false
