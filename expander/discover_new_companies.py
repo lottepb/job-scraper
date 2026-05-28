@@ -7,12 +7,14 @@ import csv
 import json
 import os
 from criteria import EXPANDER_PROMPT
+from dotenv import load_dotenv
+load_dotenv()
 
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
 COMPANIES_FILE = "data/companies.csv"
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "claude-haiku-4-5-20251001"
 MAX_TOKENS = 2000
 
 # ---------------------------------------------------------------------------

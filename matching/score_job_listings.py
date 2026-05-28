@@ -8,6 +8,8 @@ import json
 import os
 from datetime import date
 from criteria import SCORING_CRITERIA
+from dotenv import load_dotenv
+load_dotenv()
 
 # ---------------------------------------------------------------------------
 # Config
