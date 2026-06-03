@@ -23,7 +23,7 @@ _(nothing yet)_
 
 - [ ] **GitHub Actions daily schedule (high priority)** — write `run_daily.yml` to run scraper → scorer → expander automatically each day. Blocked by diff-based runs being in place first.
 
-- [ ] **Company scoring** — automatically evaluate each company against Lotte's preferences (SF office, hybrid policy, size, stage, tech-forward culture) and generate a company-level score and summary. Displayed in the Companies tab of the dashboard. Would feed into the interest indicator and give context before even looking at job listings. Could use Claude + web search to research each company.
+- [ ] **Company scoring** — automatically evaluate each company against Lotte's preferences (SF office, hybrid policy, size, stage, tech-forward culture) and generate a company-level score and summary. Displayed in the Companies tab of the dashboard. Would feed into the interest indicator and give context before even looking at job listings. Could use Claude + web search to research each company. Adjust product to not search for companies I'm not interested in at all, and to reduce frequency of search for low-interest companies.
 
 - [ ] **Company interest level** — add an `interest` field to `companies.csv` with values: `high`, `medium`, `low`, or empty. Settable from the dashboard company tab. Could give a small score boost to high-interest companies in the job matches view.
 
