@@ -271,7 +271,7 @@ def scrape_html_fallback(company_name: str, career_url: str) -> list[dict]:
             jsoup = BeautifulSoup(jr.text, "lxml")
             for t in jsoup(["nav", "header", "footer", "script", "style"]):
                 t.decompose()
-            description = jsoup.get_text(separator="\n", strip=True)[:3000]
+            description = jsoup.get_text(separator="\n", strip=True)[:6000]
             time.sleep(SLEEP_BETWEEN_REQUESTS)
         except Exception:
             pass
