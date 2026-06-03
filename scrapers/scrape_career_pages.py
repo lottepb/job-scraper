@@ -121,7 +121,7 @@ def scrape_greenhouse(company_name: str, slug: str) -> list[dict]:
 
         location = job.get("location", {}).get("name", "")
         raw_desc = job.get("content", "") or ""
-        description = BeautifulSoup(raw_desc, "lxml").get_text(separator="\n", strip=True)[:3000]
+        description = BeautifulSoup(raw_desc, "lxml").get_text(separator="\n", strip=True)[:6000]
 
         jobs.append({
             "date_scraped": str(date.today()),
@@ -163,7 +163,7 @@ def scrape_lever(company_name: str, slug: str) -> list[dict]:
                 if clean:
                     desc_parts.append(f"- {clean}")
 
-        description = "\n".join(desc_parts)[:3000]
+        description = "\n".join(desc_parts)[:6000]
 
         jobs.append({
             "date_scraped": str(date.today()),
@@ -208,7 +208,7 @@ def scrape_ashby(company_name: str, slug: str) -> list[dict]:
 
         description = BeautifulSoup(
             job.get("descriptionHtml", "") or "", "lxml"
-        ).get_text(separator="\n", strip=True)[:3000]
+        ).get_text(separator="\n", strip=True)[:6000]
 
         jobs.append({
             "date_scraped": str(date.today()),
