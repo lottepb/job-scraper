@@ -6,7 +6,7 @@ import anthropic
 import csv
 import json
 import os
-from criteria import EXPANDER_PROMPT
+from company_expander_criteria import EXPANDER_PROMPT
 from dotenv import load_dotenv
 load_dotenv()
 

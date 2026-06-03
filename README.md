@@ -21,10 +21,11 @@ job-scraper/
 ├── scrapers/
 │   └── scrape_career_pages.py   # visits career pages, pulls job listings
 ├── matching/
-│   ├── criteria.py              # all job search criteria and scoring prompts
+│   ├── job_scoring_criteria.py  # job scoring criteria and Claude prompt
 │   └── score_job_listings.py    # sends jobs to Claude, returns scores
 ├── expander/
-│   └── discover_new_companies.py # asks Claude to find similar companies
+│   ├── company_expander_criteria.py # company discovery criteria and Claude prompt
+│   └── discover_new_companies.py    # asks Claude to find similar companies
 ├── ui/
 │   └── dashboard.py             # Streamlit dashboard
 ├── .github/
@@ -41,4 +42,4 @@ See setup instructions (coming soon).
 
 ## Criteria
 
-Job matching criteria are defined in `matching/criteria.py`. Edit that file to update preferences — no other files need to change.
+Job scoring criteria are defined in `matching/job_scoring_criteria.py`. Company discovery criteria are in `expander/company_expander_criteria.py`. Edit either file to update preferences — no other files need to change.

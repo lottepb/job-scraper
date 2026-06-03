@@ -7,7 +7,7 @@ import csv
 import json
 import os
 from datetime import date
-from criteria import SCORING_CRITERIA
+from job_scoring_criteria import SCORING_CRITERIA
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -16,7 +16,7 @@ load_dotenv()
 # ---------------------------------------------------------------------------
 INPUT_FILE = "data/raw_job_listings.csv"
 OUTPUT_FILE = "data/job_matches.csv"
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "claude-haiku-4-5-20251001"
 MAX_TOKENS = 1000
 
 # ---------------------------------------------------------------------------
